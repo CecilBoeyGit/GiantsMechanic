@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+	<title>icon_keyframe-timeline-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { opacity: .5;fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Shape 2 copy 2" class="s0" d="m96.7 33.4l31.3 31.3-31.3 31.3-31.4-31.3z"/>
+		<path id="Shape 2 copy 3" class="s1" d="m63.9 33.4l8.2 7.5-23.9 23.8 24.4 24.3-8.7 7-31.4-31.3z"/>
+		<path id="Shape 2 copy 4" class="s1" d="m31.3 33.4l8.2 7.5-23.8 23.8 24.3 24.3-8.7 7-31.3-31.3z"/>
+	</g>
+</svg>

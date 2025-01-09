@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>Cinematics-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { opacity: .5;fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m12.3 1.1l-2 0.8-0.1 2.3 2.1-0.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m9.3 2.3l-2.1 0.8v2.3l2-0.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m4.1 6.6l2-0.8 0.1-2.3-2.1 0.8z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m13.4 0.7l-0.1 2.3 2.1-0.8-0.8-2z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m3.1 4.7l-2.9 1.1 0.8 2 2-0.8z"/>
+	<path id="Layer" class="s1" d="m16 8h-15v8h15z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m16 16h-15v-8h15zm-14-7v6h13v-6z"/>
+</svg>

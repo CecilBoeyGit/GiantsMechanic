@@ -1,0 +1,57 @@
+{
+	"FileVersion": 3,
+	"Version": 4,
+	"VersionName": "0.3.1",
+	"FriendlyName": "Motorica Studio",
+	"Description": "An AI-powered animation generation and processing toolkit by Motorica; for creating stylized character locomotion animations from keyframed and preset trajectories. Ideal for game developers, animators, VFX artists, directors and producers. Suitable for previs workflows due to its quick-iteration capabilities!",
+	"Category": "Animation",
+	"CreatedBy": "Motorica.ai | Teodor Nikolov ",
+	"CreatedByURL": "https://www.motorica.ai/",
+	"DocsURL": "https://docs.motorica.ai/manual/unreal-engine/",
+	"MarketplaceURL": "",
+	"SupportURL": "https://community.motorica.ai/discord/",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "MoHttp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "MoRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "MoEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServices",
+			"Enabled": true
+		}
+	]
+}

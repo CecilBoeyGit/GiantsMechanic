@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+	<title>icon_minus_fill-red-svg</title>
+	<style>
+		.s0 { fill: #ff0000 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m0 32c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v64c0 17.7-14.3 32-32 32h-64c-17.7 0-32-14.3-32-32z"/>
+	<path id="Layer copy" fill-rule="evenodd" class="s1" d="m25.6 53.8c0-2.8 2.2-5 5-5h66.8c2.8 0 5 2.2 5 5v20.4c0 2.8-2.2 5-5 5h-66.8c-2.8 0-5-2.2-5-5z"/>
+</svg>
